@@ -1,0 +1,1 @@
+<map longitude="114.319483" latitude="30.375574" markers="{{markers}}" scale="10" bindmarkertap="markertap" bindtap="onMapTaped" polygons="{{polygons}}" />
