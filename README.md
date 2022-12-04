@@ -3,3 +3,4 @@
 + 调试基础库版本：2.25.4
 
 ![20210902182740389](https://user-images.githubusercontent.com/24313098/205479944-e9ab0ca7-0c35-4d80-a826-66bac6ecffc2.gif)
+<center><img src="https://user-images.githubusercontent.com/24313098/205479944-e9ab0ca7-0c35-4d80-a826-66bac6ecffc2.gif" width="30%"></center>
